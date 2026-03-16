@@ -2,7 +2,6 @@
 Tableau dashboard analyzing business performance, sales, traffic, and conversion metrics.
 
 ## Dashboard Preview
-
 ![Dashboard Preview](dashboard.png)
 
 ## Business Task
