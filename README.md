@@ -2,7 +2,7 @@
 Tableau dashboard analyzing business performance, sales, traffic, and conversion metrics.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](business-preview.png)
 
 ## Business Task
 Analyze company performance using sales and website traffic data to identify trends across product categories, countries, devices, and marketing channels.
