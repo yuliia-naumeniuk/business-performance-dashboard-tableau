@@ -8,7 +8,7 @@ Tableau dashboard analyzing business performance, sales, traffic, and conversion
 Analyze company performance using sales and website traffic data to identify trends across product categories, countries, devices, and marketing channels.
 
 ## Tools
-Tableau, Data Visualization, Dashboard Design
+Tableau, Dashboard Design, Data Visualization, KPI Analysis
 
 ## Key Insights
 - The Americas generate the highest sales among all regions.
@@ -18,4 +18,4 @@ Tableau, Data Visualization, Dashboard Design
 - Sales show clear fluctuations over time with several noticeable peaks.
   
 ## Interactive Dashboard
-[View the dashboard on Tableau Public](https://public.tableau.com/views/BusinessPerformanceOverview_17730067313910/BusinessPerformanceOverviewSalesTraffic?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/BusinessPerformanceOverview_17730067313910/BusinessPerformanceOverviewSalesTraffic?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
